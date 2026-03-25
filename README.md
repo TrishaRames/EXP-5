@@ -39,5 +39,21 @@ PRECAUTIONS:
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+<img width="611" height="735" alt="image" src="https://github.com/user-attachments/assets/62ecc5b3-b159-4783-8ff3-4900ebcfe626" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c1ecf1b9-0f7d-4b68-b28a-eca6c4379bb0" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2f60b19f-f1f3-4f36-8e2f-dfb2fd55bbd3" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6a1145cf-7e45-45c8-bb39-f3cc2f3bb700" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0e5e5a28-2b5c-4e8a-aa6b-7ac28704c150" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/794f9345-1f63-4fc1-a533-8ccf1fc9bfa5" />
+
+   <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e584e532-8c8b-47d5-8c48-20660a6a6c52" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9c6d868c-63bd-472c-8fce-110cd032076f" />
+## OUTPUT
+<img width="720" height="288" alt="image" src="https://github.com/user-attachments/assets/aff1907e-035a-47fd-ab2c-e7c63159a977" />
+<img width="689" height="306" alt="image" src="https://github.com/user-attachments/assets/4a838aee-53a7-4bee-b870-4e6704f997fa" />
+
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
